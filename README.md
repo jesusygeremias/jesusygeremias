@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jesusygeremias
 - 👀 I’m interested in java/spring/python/flask/react/oracle-sql
-- 🌱 I’m currently learning flask for back-end
-- 💞️ I’m looking to collaborate on bbva for building in-house tool
+- 🌱 I’m currently learning flask for back-end and docker + kubernetes for distributed systems. Apache Kakfa for communications. 
+- 💞️ I’m looking to collaborate on java spring boot + microservices projects
 - 📫 How to reach me
 
 <!---
